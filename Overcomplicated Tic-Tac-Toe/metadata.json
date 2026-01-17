@@ -1,0 +1,5 @@
+{
+  "name": "Hyper-Space 3D Tic-Tac-Toe",
+  "description": "A hyper-complex 4x4x4 3D Tic-Tac-Toe with dual boards, power-up systems, AI opponents, and an economic shop mechanic.",
+  "requestFramePermissions": []
+}
